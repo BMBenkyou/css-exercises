@@ -1,0 +1,21 @@
+p {
+	background-color: pink;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p.three {
+	font-size: 24px;
+}
+
+div#second {
+	color: blue;
+	font-size: 36px;
+}
+
+div#four {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-style: bold;
+
+}
